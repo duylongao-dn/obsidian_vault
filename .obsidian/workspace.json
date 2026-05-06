@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 - Unique notes/06.May.2026-19.18 - Ghi chú thường ngày.md",
+                "file": "8 - Unique notes/06.May.2026-20.12 - Một vài ghi chú về viêm khớp dạng thấp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "06.May.2026-19.18 - Ghi chú thường ngày"
+              "title": "06.May.2026-20.12 - Một vài ghi chú về viêm khớp dạng thấp"
             }
           },
           {
@@ -229,9 +229,19 @@
               "icon": "bell",
               "title": "File Forgetting Curve"
             }
+          },
+          {
+            "id": "fe45b14047327b5b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "19115e2b6a9943e3",
@@ -283,8 +293,9 @@
   },
   "active": "3c66487590ad69fd",
   "lastOpenFiles": [
-    "8 - Unique notes/25.Mar.2026-18.56 - Căn nguyên gây viêm đường hô hấp dưới của trẻ em.md",
     "8 - Unique notes/06.May.2026-19.18 - Ghi chú thường ngày.md",
+    "8 - Unique notes/06.May.2026-20.12 - Một vài ghi chú về viêm khớp dạng thấp.md",
+    "8 - Unique notes/25.Mar.2026-18.56 - Căn nguyên gây viêm đường hô hấp dưới của trẻ em.md",
     "8 - Unique notes/12.Feb.2026-05.37 - Vị trí của con người trong tự nhiên - Marcus Aurelius.md",
     "1 - Note manager/006 Reading and Meditations.base",
     "8 - Unique notes/14.Apr.2026-21.22 - Tiếp cận một bệnh nhân cấp cứu - thiên hướng của tôi.md",
@@ -315,7 +326,6 @@
     "4 - Managing Books/Book_Cover/DeJong's The Neurologic Examination - William Campbell Richard J Barohn.jpg",
     "8 - Unique notes/14.Mar.2026-07.53 - Sinh lý của quá trình vận động.md",
     "8 - Unique notes/10.Apr.2026-05.05 - Hướng tiếp cận của tôi đối với suy hô hấp sơ sinh.md",
-    "8 - Unique notes/10.Apr.2026-05.27 - Sinh lý hô hấp và ứng dụng cho tiếp cận lâm sàng.md",
     "1 - Note manager/010 Scientific Document Manager.base",
     "5 - Media/image-13.png",
     "4 - Managing Books/Book_Cover/Research Design - John W Creswell J David Creswell.jpg",
