@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Managing Books/Books/Adams and Victor's Principles of Neurology Twelfth Edition - Allan H Ropper Martin A Samuels Joshua P Klein Sashank Prasad.md",
+                "file": "8 - Unique notes/06.May.2026-20.12 - Một vài ghi chú về viêm khớp dạng thấp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Adams and Victor's Principles of Neurology Twelfth Edition - Allan H Ropper Martin A Samuels Joshua P Klein Sashank Prasad"
+              "title": "06.May.2026-20.12 - Một vài ghi chú về viêm khớp dạng thấp"
             }
           }
         ]
@@ -169,12 +169,23 @@
           "icon": "clock",
           "title": "Reminders"
         }
+      },
+      {
+        "id": "0ef98a7e04277a05",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "zk-prefixer:Create new unique note": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
@@ -187,11 +198,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "0c32cd0f7f24e5fc",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "4 - Managing Books/Books/Adams and Victor's Principles of Neurology Twelfth Edition - Allan H Ropper Martin A Samuels Joshua P Klein Sashank Prasad.md",
     "8 - Unique notes/25.Mar.2026-17.56 - Đánh giá rối loạn đông cầm máu trong chọc dịch não tủy.md",
     "8 - Unique notes/25.Mar.2026-17.51 - Chọc dịch não tủy.md",
-    "4 - Managing Books/Books/Adams and Victor's Principles of Neurology Twelfth Edition - Allan H Ropper Martin A Samuels Joshua P Klein Sashank Prasad.md",
     "1 - Note manager/004 Book manager.base",
     "Unique notes/27.Mar.2026-13.17 - About my inner peace.md",
     "Unique notes/13.Mar.2026-05.06 - NHI KHOA - Liệu pháp oxy.md",
