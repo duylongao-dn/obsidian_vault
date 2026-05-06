@@ -11,24 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "8 - Unique notes/06.May.2026-20.12 - Một vài ghi chú về viêm khớp dạng thấp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".obsidian/plugins/focus-time/data/2026-5-6.json",
+                "bFile": ".obsidian/plugins/focus-time/data/2026-5-6.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "06.May.2026-20.12 - Một vài ghi chú về viêm khớp dạng thấp"
+              "icon": "git-pull-request",
+              "title": "Diff: 2026-5-6.json"
             }
           }
         ]
@@ -108,7 +98,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "4 - Managing Books/Books/Adams and Victor's Principles of Neurology Twelfth Edition - Allan H Ropper Martin A Samuels Joshua P Klein Sashank Prasad.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -200,6 +189,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "8 - Unique notes/06.May.2026-20.12 - Một vài ghi chú về viêm khớp dạng thấp.md",
     "4 - Managing Books/Books/Adams and Victor's Principles of Neurology Twelfth Edition - Allan H Ropper Martin A Samuels Joshua P Klein Sashank Prasad.md",
     "8 - Unique notes/25.Mar.2026-17.56 - Đánh giá rối loạn đông cầm máu trong chọc dịch não tủy.md",
     "8 - Unique notes/25.Mar.2026-17.51 - Chọc dịch não tủy.md",
@@ -236,7 +226,6 @@
     "Media/Ảnh đường đi của niệu quản (Netter).png",
     "Random notes/Untitled 3.md",
     "Random notes/Cấu tạo của thận.md",
-    "Media/Ảnh động mạch phân thùy thận.png",
-    "Random notes/Tĩnh mạch của thận.md"
+    "Media/Ảnh động mạch phân thùy thận.png"
   ]
 }
