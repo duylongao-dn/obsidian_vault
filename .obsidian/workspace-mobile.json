@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Random notes/Các đường mổ.md",
+            "file": "4 - Managing Books/Books/Adams and Victor's Principles of Neurology Twelfth Edition - Allan H Ropper Martin A Samuels Joshua P Klein Sashank Prasad.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Reading notes/Sun and Steel - Yukio Mishima.md",
+            "file": "4 - Managing Books/Books/Adams and Victor's Principles of Neurology Twelfth Edition - Allan H Ropper Martin A Samuels Joshua P Klein Sashank Prasad.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -156,8 +156,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "calendar"
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       },
       {
@@ -171,11 +171,10 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-book-search-plugin:Create new book note": false,
       "zk-prefixer:Create new unique note": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
@@ -184,10 +183,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "focus-time:Open Focus Time Dashboard": false
+      "focus-time:Open Focus Time Dashboard": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0c32cd0f7f24e5fc",
   "lastOpenFiles": [
     "8 - Unique notes/25.Mar.2026-17.56 - Đánh giá rối loạn đông cầm máu trong chọc dịch não tủy.md",
     "8 - Unique notes/25.Mar.2026-17.51 - Chọc dịch não tủy.md",
