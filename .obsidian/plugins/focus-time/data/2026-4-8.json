@@ -1,0 +1,33 @@
+{
+  "dailyReadData": {
+    "1771588166255": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1771588166255",
+      "duration": 6000
+    },
+    "1775576162837": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1775576162837",
+      "duration": 18000
+    },
+    "undefined": {
+      "filePath": "",
+      "openCount": 0,
+      "duration": 6000
+    },
+    "1775652190273": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1775652190273",
+      "duration": 510000
+    },
+    "1775346562295": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1775346562295",
+      "duration": 12000
+    }
+  }
+}

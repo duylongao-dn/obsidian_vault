@@ -1,0 +1,14 @@
+{
+  "cssTheme": "Blue Topaz",
+  "nativeMenus": true,
+  "textFontFamily": "JetBrains Mono",
+  "showViewHeader": true,
+  "interfaceFontFamily": "",
+  "accentColor": "",
+  "theme": "obsidian",
+  "baseFontSize": 14,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "org-sidian-color"
+  ]
+}

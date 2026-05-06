@@ -1,0 +1,658 @@
+{
+  "readData": {
+    "3 - Habit tracking/Exercise tracking.md": {
+      "fileId": "1770856362059",
+      "filePath": "3 - Habit tracking/Exercise tracking.md",
+      "duration": 162000,
+      "openCount": 4
+    },
+    "3 - Habit tracking/Reading - other books tracking.md": {
+      "fileId": "1770856512067",
+      "filePath": "3 - Habit tracking/Reading - other books tracking.md",
+      "duration": 60000,
+      "openCount": 4
+    },
+    "3 - Habit tracking/Reading - medicine tracking.md": {
+      "fileId": "1770856560058",
+      "filePath": "3 - Habit tracking/Reading - medicine tracking.md",
+      "duration": 330000,
+      "openCount": 5
+    },
+    "Unique notes/10.Feb.2026-17.22 - Viêm ruột thừa.md": {
+      "fileId": "1770879732060",
+      "filePath": "Unique notes/10.Feb.2026-17.22 - Viêm ruột thừa.md",
+      "duration": 162000,
+      "openCount": 7
+    },
+    "Unique notes/10.Feb.2026-17.46 - Giải phẫu và sinh lý bình thường của ruột thừa.md": {
+      "fileId": "1770879737066",
+      "filePath": "Unique notes/10.Feb.2026-17.46 - Giải phẫu và sinh lý bình thường của ruột thừa.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Unique notes/10.Feb.2026-20.00 - Nguyên nhân của viêm ruột thừa.md": {
+      "fileId": "1770879770376",
+      "filePath": "Unique notes/10.Feb.2026-20.00 - Nguyên nhân của viêm ruột thừa.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Unique notes/12.Feb.2026-15.01 - Biểu hiện lâm sàng ở viêm ruột thừa.md": {
+      "fileId": "1770883290004",
+      "filePath": "Unique notes/12.Feb.2026-15.01 - Biểu hiện lâm sàng ở viêm ruột thừa.md",
+      "duration": 1032000,
+      "openCount": 2
+    },
+    "Unique notes/12.Feb.2026-16.40 - Cận lâm sàng của viêm ruột thừa.md": {
+      "fileId": "1770889241953",
+      "filePath": "Unique notes/12.Feb.2026-16.40 - Cận lâm sàng của viêm ruột thừa.md",
+      "duration": 606000,
+      "openCount": 5
+    },
+    "Unique notes/12.Feb.2026-16.43 - Chẩn đoán phân biệt của viêm ruột thừa.md": {
+      "fileId": "1770889385966",
+      "filePath": "Unique notes/12.Feb.2026-16.43 - Chẩn đoán phân biệt của viêm ruột thừa.md",
+      "duration": 66000,
+      "openCount": 4
+    },
+    "Unique notes/12.Feb.2026-18.00 - Thủng ruột thừa (perforation).md": {
+      "fileId": "1770894011945",
+      "filePath": "Unique notes/12.Feb.2026-18.00 - Thủng ruột thừa (perforation).md",
+      "duration": 216000,
+      "openCount": 6
+    },
+    "2 - Templates/Tempfile.md": {
+      "fileId": "1770894179954",
+      "filePath": "2 - Templates/Tempfile.md",
+      "duration": 180000,
+      "openCount": 15
+    },
+    "Unique notes/12.Feb.2026-18.06 - Điều trị viêm ruột thừa.md": {
+      "fileId": "1770894383948",
+      "filePath": "Unique notes/12.Feb.2026-18.06 - Điều trị viêm ruột thừa.md",
+      "duration": 150000,
+      "openCount": 5
+    },
+    "1 - Note manager/Notes manager.base": {
+      "fileId": "1770894413963",
+      "filePath": "1 - Note manager/Notes manager.base",
+      "duration": 96000,
+      "openCount": 16
+    },
+    "Random notes/Hoàn thành Adam and Victor Neurology.md": {
+      "fileId": "1770894425956",
+      "filePath": "Random notes/Hoàn thành Adam and Victor Neurology.md",
+      "duration": 42000,
+      "openCount": 3
+    },
+    "1 - Note manager/Task manager.base": {
+      "fileId": "1770894455949",
+      "filePath": "1 - Note manager/Task manager.base",
+      "duration": 102000,
+      "openCount": 11
+    },
+    "Random notes/Hoàn thành sách Kumar and Clark.md": {
+      "fileId": "1770894479958",
+      "filePath": "Random notes/Hoàn thành sách Kumar and Clark.md",
+      "duration": 288000,
+      "openCount": 5
+    },
+    "Unique notes/12.Feb.2026-18.10 - Danh sách callout trong obsidian.md": {
+      "fileId": "1770894617964",
+      "filePath": "Unique notes/12.Feb.2026-18.10 - Danh sách callout trong obsidian.md",
+      "duration": 108000,
+      "openCount": 2
+    },
+    "2 - Templates/Temp-task.md": {
+      "fileId": "1770895779089",
+      "filePath": "2 - Templates/Temp-task.md",
+      "duration": 24000,
+      "openCount": 9
+    },
+    "Unique notes/14.Feb.2026-11.56 - Về bản chất cuộc đời và lối sống khổ hạnh.md": {
+      "fileId": "1771044981182",
+      "filePath": "Unique notes/14.Feb.2026-11.56 - Về bản chất cuộc đời và lối sống khổ hạnh.md",
+      "duration": 78000,
+      "openCount": 4
+    },
+    "Unique notes/20.Feb.2026-14.24 - Suy nghĩ của ta trong bá tước Monte Cristo.md": {
+      "fileId": "1771572277481",
+      "filePath": "Unique notes/20.Feb.2026-14.24 - Suy nghĩ của ta trong bá tước Monte Cristo.md",
+      "duration": 648000,
+      "openCount": 7
+    },
+    "1 - Note manager/Reading and Meditations.base": {
+      "fileId": "1771587853480",
+      "filePath": "1 - Note manager/Reading and Meditations.base",
+      "duration": 102000,
+      "openCount": 18
+    },
+    "Unique notes/12.Feb.2026-05.50 - Về làm việc - Marcus Aurelius.md": {
+      "fileId": "1771587895481",
+      "filePath": "Unique notes/12.Feb.2026-05.50 - Về làm việc - Marcus Aurelius.md",
+      "duration": 18000,
+      "openCount": 3
+    },
+    "Unique notes/11.Feb.2026-21.50 - Về lãng phí thời gian - Marcus Aurelius.md": {
+      "fileId": "1771587907489",
+      "filePath": "Unique notes/11.Feb.2026-21.50 - Về lãng phí thời gian - Marcus Aurelius.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Unique notes/12.Feb.2026-05.37 - Vị trí của con người trong tự nhiên - Marcus Aurelius.md": {
+      "fileId": "1771587913499",
+      "filePath": "Unique notes/12.Feb.2026-05.37 - Vị trí của con người trong tự nhiên - Marcus Aurelius.md",
+      "duration": 48000,
+      "openCount": 3
+    },
+    "1 - Note manager/Contribution Graph.md": {
+      "fileId": "1771588166255",
+      "filePath": "1 - Note manager/Contribution Graph.md",
+      "duration": 42000,
+      "openCount": 11
+    },
+    "Unique notes/10.Feb.2026-15.45 - Một vài bài học chính từ Tôi tự học.md": {
+      "fileId": "1771588195474",
+      "filePath": "Unique notes/10.Feb.2026-15.45 - Một vài bài học chính từ Tôi tự học.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "1 - Note manager/Quản lý đọc y khoa.base": {
+      "fileId": "1771588189480",
+      "filePath": "1 - Note manager/Quản lý đọc y khoa.base",
+      "duration": 126000,
+      "openCount": 12
+    },
+    "Unique notes/20.Feb.2026-19.58 -.md": {
+      "fileId": "1771592287475",
+      "filePath": "Unique notes/20.Feb.2026-19.58 -.md",
+      "duration": 42000,
+      "openCount": 1
+    },
+    "Unique notes/20.Feb.2026-19.58 - Clarity, what's left of me.md": {
+      "fileId": "1771592287475",
+      "filePath": "Unique notes/20.Feb.2026-19.58 - Clarity, what's left of me.md",
+      "duration": 42000,
+      "openCount": 2
+    },
+    "Unique notes/20.Feb.2026-20.43 - Tại sao phải cố gắng.md": {
+      "fileId": "1771594987485",
+      "filePath": "Unique notes/20.Feb.2026-20.43 - Tại sao phải cố gắng.md",
+      "duration": 516000,
+      "openCount": 3
+    },
+    "Unique notes/21.Feb.2026-08.41 - Ecstasy, what do you have left.md": {
+      "fileId": "1771638097486",
+      "filePath": "Unique notes/21.Feb.2026-08.41 - Ecstasy, what do you have left.md",
+      "duration": 228000,
+      "openCount": 3
+    },
+    "Unique notes/26.Feb.2026-05.24 - Suy tưởng thường nhật - Về tình yêu và cô đơn.md": {
+      "fileId": "1772058288452",
+      "filePath": "Unique notes/26.Feb.2026-05.24 - Suy tưởng thường nhật - Về tình yêu và cô đơn.md",
+      "duration": 546000,
+      "openCount": 4
+    },
+    "Unique notes/26.Feb.2026-05.28 - Divertissement - Xao nhãng - Pascal.md": {
+      "fileId": "1772058540452",
+      "filePath": "Unique notes/26.Feb.2026-05.28 - Divertissement - Xao nhãng - Pascal.md",
+      "duration": 996000,
+      "openCount": 7
+    },
+    "Unique notes/10.Feb.2026-15.36 - Tổng công việc phải làm.md": {
+      "fileId": "1772959338656",
+      "filePath": "Unique notes/10.Feb.2026-15.36 - Tổng công việc phải làm.md",
+      "duration": 24000,
+      "openCount": 1
+    },
+    "Unique notes/08.Mar.2026-20.26 - Suy nghĩ của ta về sự lười biếng của chính bản thân ta.md": {
+      "fileId": "1772976411088",
+      "filePath": "Unique notes/08.Mar.2026-20.26 - Suy nghĩ của ta về sự lười biếng của chính bản thân ta.md",
+      "duration": 444000,
+      "openCount": 4
+    },
+    "Random notes/Illustrated Textbook of Pediatrics 5th edition - Lissauer.md": {
+      "fileId": "1772982993093",
+      "filePath": "Random notes/Illustrated Textbook of Pediatrics 5th edition - Lissauer.md",
+      "duration": 42000,
+      "openCount": 2
+    },
+    "Unique notes/08.Mar.2026-22.15 - Lissauer2017Illustrated.md": {
+      "fileId": "1772982927091",
+      "filePath": "Unique notes/08.Mar.2026-22.15 - Lissauer2017Illustrated.md",
+      "duration": 108000,
+      "openCount": 3
+    },
+    "Unique notes/09.Mar.2026-17.35 - Nổi tiếng và hình ảnh.md": {
+      "fileId": "1773052540017",
+      "filePath": "Unique notes/09.Mar.2026-17.35 - Nổi tiếng và hình ảnh.md",
+      "duration": 480000,
+      "openCount": 3
+    },
+    "Unique notes/10.Mar.2026-18.24 - Những thứ đang kìm hãm ta lại trong cuộc đời.md": {
+      "fileId": "1773141878858",
+      "filePath": "Unique notes/10.Mar.2026-18.24 - Những thứ đang kìm hãm ta lại trong cuộc đời.md",
+      "duration": 1224000,
+      "openCount": 6
+    },
+    "Random notes/Books - David Goggins - Can't Hurt Me - 2018.md": {
+      "fileId": "1773142004867",
+      "filePath": "Random notes/Books - David Goggins - Can't Hurt Me - 2018.md",
+      "duration": 960000,
+      "openCount": 8
+    },
+    "Unique notes/13.Mar.2026-04.45 - NHI KHOA - Tiếp cận triệu chứng của suy hô hấp.md": {
+      "fileId": "1773351960314",
+      "filePath": "Unique notes/13.Mar.2026-04.45 - NHI KHOA - Tiếp cận triệu chứng của suy hô hấp.md",
+      "duration": 258000,
+      "openCount": 3
+    },
+    "Unique notes/13.Mar.2026-05.06 - NHI KHOA - Liệu pháp oxy.md": {
+      "fileId": "1773353199551",
+      "filePath": "Unique notes/13.Mar.2026-05.06 - NHI KHOA - Liệu pháp oxy.md",
+      "duration": 1476000,
+      "openCount": 2
+    },
+    "Random notes/Đề tài nghiên cứu khoa học chị Hoàng Huyền Trang.md": {
+      "fileId": "1773448068687",
+      "filePath": "Random notes/Đề tài nghiên cứu khoa học chị Hoàng Huyền Trang.md",
+      "duration": 24000,
+      "openCount": 2
+    },
+    "Unique notes/14.Mar.2026-07.28 - Tổng quan về thần kinh học.md": {
+      "fileId": "1773448140692",
+      "filePath": "Unique notes/14.Mar.2026-07.28 - Tổng quan về thần kinh học.md",
+      "duration": 540000,
+      "openCount": 15
+    },
+    "Unique notes/14.Mar.2026-07.29 -.md": {
+      "fileId": "1773448182694",
+      "filePath": "Unique notes/14.Mar.2026-07.29 -.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Unique notes/14.Mar.2026-07.32 -.md": {
+      "fileId": "1773448347853",
+      "filePath": "Unique notes/14.Mar.2026-07.32 -.md",
+      "duration": 6000,
+      "openCount": 3
+    },
+    "Random notes/Adams and Victor's Principles of Neurology (12th edition).md": {
+      "fileId": "1773448350706",
+      "filePath": "Random notes/Adams and Victor's Principles of Neurology (12th edition).md",
+      "duration": 126000,
+      "openCount": 11
+    },
+    "Unique notes/14.Mar.2026-07.53 - Sinh lý của quá trình vận động.md": {
+      "fileId": "1773449616703",
+      "filePath": "Unique notes/14.Mar.2026-07.53 - Sinh lý của quá trình vận động.md",
+      "duration": 210000,
+      "openCount": 4
+    },
+    "Unique notes/14.Mar.2026-08.05 - Cấu tạo của cơ.md": {
+      "fileId": "1773450360702",
+      "filePath": "Unique notes/14.Mar.2026-08.05 - Cấu tạo của cơ.md",
+      "duration": 894000,
+      "openCount": 12
+    },
+    "2 - Templates/Tempfile-book.md": {
+      "fileId": "1773450429700",
+      "filePath": "2 - Templates/Tempfile-book.md",
+      "duration": 198000,
+      "openCount": 5
+    },
+    "Random notes/Junqueira's Basic Histology - Text and Atlas - 16th edition.md": {
+      "fileId": "1773450000692",
+      "filePath": "Random notes/Junqueira's Basic Histology - Text and Atlas - 16th edition.md",
+      "duration": 78000,
+      "openCount": 7
+    },
+    "Unique notes/14.Mar.2026-10.41 - Cơ chế gây co cơ.md": {
+      "fileId": "1773459714700",
+      "filePath": "Unique notes/14.Mar.2026-10.41 - Cơ chế gây co cơ.md",
+      "duration": 1440000,
+      "openCount": 10
+    },
+    "Unique notes/11.Mar.2026-23.13 - NHI KHOA - Định nghĩa hen phế quản.md": {
+      "fileId": "1773479182017",
+      "filePath": "Unique notes/11.Mar.2026-23.13 - NHI KHOA - Định nghĩa hen phế quản.md",
+      "duration": 252000,
+      "openCount": 2
+    },
+    "Unique notes/15.Mar.2026-10.07 - Suy nghĩ về khoái lạc.md": {
+      "fileId": "1773544039358",
+      "filePath": "Unique notes/15.Mar.2026-10.07 - Suy nghĩ về khoái lạc.md",
+      "duration": 1218000,
+      "openCount": 4
+    },
+    "Unique notes/15.Mar.2026-15.45 - Lịch tiêm chủng mở rộng quốc gia cho trẻ.md": {
+      "fileId": "1773564361350",
+      "filePath": "Unique notes/15.Mar.2026-15.45 - Lịch tiêm chủng mở rộng quốc gia cho trẻ.md",
+      "duration": 270000,
+      "openCount": 5
+    },
+    "Unique notes/15.Mar.2026-15.46 - Suy nghĩ của ta về việc học dựa trên đam mê.md": {
+      "fileId": "1773564373351",
+      "filePath": "Unique notes/15.Mar.2026-15.46 - Suy nghĩ của ta về việc học dựa trên đam mê.md",
+      "duration": 396000,
+      "openCount": 8
+    },
+    "Unique notes/10.Feb.2026-11.19 - Về cám dỗ và nỗ lực.md": {
+      "fileId": "1773564949342",
+      "filePath": "Unique notes/10.Feb.2026-11.19 - Về cám dỗ và nỗ lực.md",
+      "duration": 24000,
+      "openCount": 3
+    },
+    "Random notes/Tổng hợp ghi chú về cám dỗ và nỗ lực.md": {
+      "fileId": "1773564973335",
+      "filePath": "Random notes/Tổng hợp ghi chú về cám dỗ và nỗ lực.md",
+      "duration": 30000,
+      "openCount": 2
+    },
+    "Unique notes/15.Mar.2026-16.32 - Dịch tễ học bệnh tay chân miệng.md": {
+      "fileId": "1773567175345",
+      "filePath": "Unique notes/15.Mar.2026-16.32 - Dịch tễ học bệnh tay chân miệng.md",
+      "duration": 402000,
+      "openCount": 6
+    },
+    "Unique notes/15.Mar.2026-16.28 - Bệnh tay chân miệng (hand foot mouth disease).md": {
+      "fileId": "1773566905344",
+      "filePath": "Unique notes/15.Mar.2026-16.28 - Bệnh tay chân miệng (hand foot mouth disease).md",
+      "duration": 1014000,
+      "openCount": 10
+    },
+    "Unique notes/15.Mar.2026-19.06 - Các cấu thành của một chẩn đoán.md": {
+      "fileId": "1773576421337",
+      "filePath": "Unique notes/15.Mar.2026-19.06 - Các cấu thành của một chẩn đoán.md",
+      "duration": 168000,
+      "openCount": 2
+    },
+    "Unique notes/15.Mar.2026-19.23 - Căn nguyên gây bệnh tay chân miệng.md": {
+      "fileId": "1773577423335",
+      "filePath": "Unique notes/15.Mar.2026-19.23 - Căn nguyên gây bệnh tay chân miệng.md",
+      "duration": 42000,
+      "openCount": 3
+    },
+    "Unique notes/25.Mar.2026-06.29 - Tiêu chảy - tiếp cận từ cơ chế bệnh sinh.md": {
+      "fileId": "1774394981050",
+      "filePath": "Unique notes/25.Mar.2026-06.29 - Tiêu chảy - tiếp cận từ cơ chế bệnh sinh.md",
+      "duration": 648000,
+      "openCount": 3
+    },
+    "Books/The Count of Monte Cristo - Alexandre Dumas.md": {
+      "fileId": "1774396277055",
+      "filePath": "Books/The Count of Monte Cristo - Alexandre Dumas.md",
+      "duration": 48000,
+      "openCount": 7
+    },
+    "1 - Note manager/Book manager.base": {
+      "fileId": "1774396301046",
+      "filePath": "1 - Note manager/Book manager.base",
+      "duration": 1014000,
+      "openCount": 44
+    },
+    "Books/Man and His Symbols - Carl Gustav Jung.md": {
+      "fileId": "1774396804371",
+      "filePath": "Books/Man and His Symbols - Carl Gustav Jung.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Books/Mechanical Circulatory and Respiratory Support - Shaun D Gregory Andrew F Stephens Silver Heinsar Jutta Arens John F Fraser.md": {
+      "fileId": "1774396919098",
+      "filePath": "Books/Mechanical Circulatory and Respiratory Support - Shaun D Gregory Andrew F Stephens Silver Heinsar Jutta Arens John F Fraser.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Books/Guyton and Hall Textbook of Medical Physiology E-Book - John E Hall Michael E Hall.md": {
+      "fileId": "1774396942923",
+      "filePath": "Books/Guyton and Hall Textbook of Medical Physiology E-Book - John E Hall Michael E Hall.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Books/The Stranger (English Edition) - Albert Camus.md": {
+      "fileId": "1774396988548",
+      "filePath": "Books/The Stranger (English Edition) - Albert Camus.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Books/Meditations - Marcus Aurelius.md": {
+      "fileId": "1774397087064",
+      "filePath": "Books/Meditations - Marcus Aurelius.md",
+      "duration": 36000,
+      "openCount": 5
+    },
+    "Unique notes/11.Feb.2026-10.28 - Suy nghĩ về các sự né tránh (divertissement).md": {
+      "fileId": "1774418330802",
+      "filePath": "Unique notes/11.Feb.2026-10.28 - Suy nghĩ về các sự né tránh (divertissement).md",
+      "duration": 24000,
+      "openCount": 3
+    },
+    "Books/The Myth of Sisyphus - Albert Camus.md": {
+      "fileId": "1774418340973",
+      "filePath": "Books/The Myth of Sisyphus - Albert Camus.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Unique notes/13.Mar.2026-12.11 - Perhaps I am to be lonely.md": {
+      "fileId": "1774418360795",
+      "filePath": "Unique notes/13.Mar.2026-12.11 - Perhaps I am to be lonely.md",
+      "duration": 36000,
+      "openCount": 2
+    },
+    "Random notes/Scientific article note/Bronchiolitis.md": {
+      "fileId": "1774433537118",
+      "filePath": "Random notes/Scientific article note/Bronchiolitis.md",
+      "duration": 138000,
+      "openCount": 7
+    },
+    "Scientific article note/Bronchiolitis.md": {
+      "fileId": "1774433687130",
+      "filePath": "Scientific article note/Bronchiolitis.md",
+      "duration": 66000,
+      "openCount": 10
+    },
+    "Unique notes/25.Mar.2026-17.15 - Viêm phế quản phổi.md": {
+      "fileId": "1774433723124",
+      "filePath": "Unique notes/25.Mar.2026-17.15 - Viêm phế quản phổi.md",
+      "duration": 516000,
+      "openCount": 14
+    },
+    "Unique notes/25.Mar.2026-17.39 -.md": {
+      "fileId": "1774435175116",
+      "filePath": "Unique notes/25.Mar.2026-17.39 -.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Books/Adams and Victor's Principles of Neurology Twelfth Edition - Allan H Ropper Martin A Samuels Joshua P Klein Sashank Prasad.md": {
+      "fileId": "1774435667109",
+      "filePath": "Books/Adams and Victor's Principles of Neurology Twelfth Edition - Allan H Ropper Martin A Samuels Joshua P Klein Sashank Prasad.md",
+      "duration": 18000,
+      "openCount": 3
+    },
+    "Unique notes/25.Mar.2026-17.51 - Chọc dịch não tủy.md": {
+      "fileId": "1774435871118",
+      "filePath": "Unique notes/25.Mar.2026-17.51 - Chọc dịch não tủy.md",
+      "duration": 456000,
+      "openCount": 4
+    },
+    "Unique notes/25.Mar.2026-17.56 - Đánh giá rối loạn đông cầm máu trong chọc dịch não tủy.md": {
+      "fileId": "1774436177118",
+      "filePath": "Unique notes/25.Mar.2026-17.56 - Đánh giá rối loạn đông cầm máu trong chọc dịch não tủy.md",
+      "duration": 150000,
+      "openCount": 4
+    },
+    "Unique notes/25.Mar.2026-18.07 - Sinh lý bình thường của một chuyển động.md": {
+      "fileId": "1774436861117",
+      "filePath": "Unique notes/25.Mar.2026-18.07 - Sinh lý bình thường của một chuyển động.md",
+      "duration": 318000,
+      "openCount": 4
+    },
+    "Books/Junqueira's Basic Histology Text and Atlas Sixteenth Edition - Anthony L Mescher.md": {
+      "fileId": "1774437299124",
+      "filePath": "Books/Junqueira's Basic Histology Text and Atlas Sixteenth Edition - Anthony L Mescher.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Unique notes/25.Mar.2026-18.56 - Căn nguyên gây viêm đường hô hấp dưới của trẻ em.md": {
+      "fileId": "1774439777111",
+      "filePath": "Unique notes/25.Mar.2026-18.56 - Căn nguyên gây viêm đường hô hấp dưới của trẻ em.md",
+      "duration": 1476000,
+      "openCount": 12
+    },
+    "Books/Encyclopedia of Respiratory Medicine.md": {
+      "fileId": "1774439815597",
+      "filePath": "Books/Encyclopedia of Respiratory Medicine.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Books/Medical Microbiology E-Book - Patrick R Murray Ken S Rosenthal Michael A Pfaller.md": {
+      "fileId": "1774440707117",
+      "filePath": "Books/Medical Microbiology E-Book - Patrick R Murray Ken S Rosenthal Michael A Pfaller.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Unique notes/25.Mar.2026-19.04 - Kháng kháng sinh - Nhóm căn nguyên ESCAPPM.md": {
+      "fileId": "1774440305128",
+      "filePath": "Unique notes/25.Mar.2026-19.04 - Kháng kháng sinh - Nhóm căn nguyên ESCAPPM.md",
+      "duration": 378000,
+      "openCount": 6
+    },
+    "Unique notes/25.Mar.2026-19.16 - Proteus mirabilis.md": {
+      "fileId": "1774440993096",
+      "filePath": "Unique notes/25.Mar.2026-19.16 - Proteus mirabilis.md",
+      "duration": 192000,
+      "openCount": 5
+    },
+    "Unique notes/25.Mar.2026-19.44 - Listeria monocytogenes.md": {
+      "fileId": "1774442697104",
+      "filePath": "Unique notes/25.Mar.2026-19.44 - Listeria monocytogenes.md",
+      "duration": 858000,
+      "openCount": 10
+    },
+    "Books/Mandell Douglas and Bennett's Principles and Practice of Infectious Diseases E-Book - John E Bennett Raphael Dolin Martin J Blaser.md": {
+      "fileId": "1774442751085",
+      "filePath": "Books/Mandell Douglas and Bennett's Principles and Practice of Infectious Diseases E-Book - John E Bennett Raphael Dolin Martin J Blaser.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Unique notes/25.Mar.2026-19.48 - Sử dụng nhạc trong quá trình học.md": {
+      "fileId": "1774442901097",
+      "filePath": "Unique notes/25.Mar.2026-19.48 - Sử dụng nhạc trong quá trình học.md",
+      "duration": 600000,
+      "openCount": 5
+    },
+    "Books/Learning How to Learn - Barbara Oakley PhD Terrence Sejnowski PhD Alistair McConville.md": {
+      "fileId": "1774442929453",
+      "filePath": "Books/Learning How to Learn - Barbara Oakley PhD Terrence Sejnowski PhD Alistair McConville.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Books/Can't Hurt Me - David Goggins.md": {
+      "fileId": "1774443261097",
+      "filePath": "Books/Can't Hurt Me - David Goggins.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Books/Kumar and Clark's Clinical Medicine E-Book - Adam Feather David Randall Mona Waterhouse.md": {
+      "fileId": "1774443326841",
+      "filePath": "Books/Kumar and Clark's Clinical Medicine E-Book - Adam Feather David Randall Mona Waterhouse.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Unique notes/25.Mar.2026-21.22 - Some thinking about love.md": {
+      "fileId": "1774448547118",
+      "filePath": "Unique notes/25.Mar.2026-21.22 - Some thinking about love.md",
+      "duration": 738000,
+      "openCount": 3
+    },
+    "Books/Atomic Habits - James Clear.md": {
+      "fileId": "1774517436147",
+      "filePath": "Books/Atomic Habits - James Clear.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Unique notes/26.Mar.2026-20.41 - Đời là một chuỗi đau thương không lối thoát.md": {
+      "fileId": "1774532489328",
+      "filePath": "Unique notes/26.Mar.2026-20.41 - Đời là một chuỗi đau thương không lối thoát.md",
+      "duration": 684000,
+      "openCount": 13
+    },
+    "Books/Campbell Biology - Lisa A Urry Michael L Cain Steven Alexander Wasserman Peter V Minorsky Rebecca B Orr.md": {
+      "fileId": "1774534775333",
+      "filePath": "Books/Campbell Biology - Lisa A Urry Michael L Cain Steven Alexander Wasserman Peter V Minorsky Rebecca B Orr.md",
+      "duration": 12000,
+      "openCount": 3
+    },
+    "Unique notes/26.Mar.2026-21.20 - Hô hấp tế bào.md": {
+      "fileId": "1774534805339",
+      "filePath": "Unique notes/26.Mar.2026-21.20 - Hô hấp tế bào.md",
+      "duration": 84000,
+      "openCount": 5
+    },
+    "Books/Medical Biochemistry E-Book - John W Baynes Marek H Dominiczak.md": {
+      "fileId": "1774537677046",
+      "filePath": "Books/Medical Biochemistry E-Book - John W Baynes Marek H Dominiczak.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Unique notes/26.Mar.2026-22.15 - Viêm tủy.md": {
+      "fileId": "1774538123318",
+      "filePath": "Unique notes/26.Mar.2026-22.15 - Viêm tủy.md",
+      "duration": 336000,
+      "openCount": 2
+    },
+    "Unique notes/27.Mar.2026-06.49 - Những gì ta cần làm ở hiện tại.md": {
+      "fileId": "1774568999570",
+      "filePath": "Unique notes/27.Mar.2026-06.49 - Những gì ta cần làm ở hiện tại.md",
+      "duration": 210000,
+      "openCount": 3
+    },
+    "Unique notes/27.Mar.2026-07.00 - Tế bào sử dụng nguồn năng lượng gì.md": {
+      "fileId": "1774569644521",
+      "filePath": "Unique notes/27.Mar.2026-07.00 - Tế bào sử dụng nguồn năng lượng gì.md",
+      "duration": 102000,
+      "openCount": 2
+    },
+    "Unique notes/27.Mar.2026-07.04 - Ghi chú là hoạt động của tâm trí.md": {
+      "fileId": "1774569902518",
+      "filePath": "Unique notes/27.Mar.2026-07.04 - Ghi chú là hoạt động của tâm trí.md",
+      "duration": 438000,
+      "openCount": 2
+    },
+    "Unique notes/27.Mar.2026-20.20 - Hành động.md": {
+      "fileId": "1774617613867",
+      "filePath": "Unique notes/27.Mar.2026-20.20 - Hành động.md",
+      "duration": 222000,
+      "openCount": 4
+    },
+    "Books/Discipline Equals Freedom - Jocko Willink.md": {
+      "fileId": "1774617643866",
+      "filePath": "Books/Discipline Equals Freedom - Jocko Willink.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "Unique notes/27.Mar.2026-23.10 - Những cái cớ hiện tại của bản thân.md": {
+      "fileId": "1774627855862",
+      "filePath": "Unique notes/27.Mar.2026-23.10 - Những cái cớ hiện tại của bản thân.md",
+      "duration": 318000,
+      "openCount": 2
+    },
+    "Unique notes/27.Mar.2026-23.27 - Danh sách các chủ đề cần làm của nhi khoa.md": {
+      "fileId": "1774628875853",
+      "filePath": "Unique notes/27.Mar.2026-23.27 - Danh sách các chủ đề cần làm của nhi khoa.md",
+      "duration": 120000,
+      "openCount": 2
+    },
+    "1 - Note manager/Quản lý các note cần làm.base": {
+      "fileId": "1774628947852",
+      "filePath": "1 - Note manager/Quản lý các note cần làm.base",
+      "duration": 84000,
+      "openCount": 2
+    },
+    "Unique notes/27.Mar.2026-13.17 - About my inner peace.md": {
+      "fileId": "1774629168160",
+      "filePath": "Unique notes/27.Mar.2026-13.17 - About my inner peace.md",
+      "duration": 36000,
+      "openCount": 1
+    }
+  }
+}

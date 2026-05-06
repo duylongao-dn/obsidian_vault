@@ -1,0 +1,14 @@
+{
+  "cssTheme": "TerraFlow",
+  "nativeMenus": false,
+  "textFontFamily": "",
+  "showViewHeader": true,
+  "interfaceFontFamily": "",
+  "accentColor": "",
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "org-sidian-color"
+  ]
+}

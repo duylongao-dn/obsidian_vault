@@ -1,0 +1,20 @@
+{
+  "spellcheck": false,
+  "autoPairBrackets": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "9 - Random notes",
+  "attachmentFolderPath": "5 - Media",
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showLineNumber": false,
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "vimMode": false
+}

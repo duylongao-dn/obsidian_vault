@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce562a93c166f0cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "14e9fad5312653db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e49306df1c24bab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ccd25e9d9d4fb8c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "867f7a20aaa032ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e324c0d31edd808d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13c94d9f0f544de7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.5
+  },
+  "right": {
+    "id": "72ec84f50ea2ad50",
+    "type": "split",
+    "children": [
+      {
+        "id": "2451c70b07804a47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8863d646268c096",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - Note manager/Task manager.base",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Task manager"
+            }
+          },
+          {
+            "id": "1d3e5cb6e91cede2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 - Note manager/Task manager.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Task manager"
+            }
+          },
+          {
+            "id": "0a1dcd3fd46e22f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "14025b5db1e1e494",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "48c6d1a0ed45b14b",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "19115e2b6a9943e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee9a8f71a7ad4d4b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "f49815f8b24831dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "file-forgetting-curve-obsidian:View - File Forgetting Curve": false,
+      "homepage:Open homepage": false,
+      "focus-time:Open Focus Time Dashboard": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "1 - Note manager/Reading and Meditations.base",
+    "1 - Note manager/Quản lý đọc y khoa.base",
+    "1 - Note manager/Notes manager.base",
+    "1 - Note manager/Contribution Graph.md",
+    "Unique notes/26.Feb.2026-05.24 - Suy tưởng thường nhật - Về tình yêu và cô đơn.md",
+    "Unique notes/26.Feb.2026-05.28 - Divertissement - Xao nhãng - Pascal.md",
+    "Unique notes/21.Feb.2026-08.41 - Ecstasy, what do you have left.md",
+    "Unique notes/10.Feb.2026-17.22 - Viêm ruột thừa.md",
+    "Unique notes/20.Feb.2026-20.43 - Tại sao phải cố gắng.md",
+    "Unique notes/20.Feb.2026-19.58 - Clarity, what's left of me.md",
+    "Unique notes/10.Feb.2026-15.45 - Một vài bài học chính từ Tôi tự học.md",
+    "1 - Note manager/Task manager.base",
+    "Random notes/Hoàn thành Adam and Victor Neurology.md",
+    "Unique notes/12.Feb.2026-05.37 - Vị trí của con người trong tự nhiên - Marcus Aurelius.md",
+    "Unique notes/11.Feb.2026-21.50 - Về lãng phí thời gian - Marcus Aurelius.md",
+    "Unique notes/12.Feb.2026-05.50 - Về làm việc - Marcus Aurelius.md",
+    "Unique notes/20.Feb.2026-14.24 - Suy nghĩ của ta trong bá tước Monte Cristo.md",
+    "Unique notes/14.Feb.2026-11.56 - Về bản chất cuộc đời và lối sống khổ hạnh.md",
+    "Random notes/Hoàn thành sách Kumar and Clark.md",
+    "2 - Templates/Temp-task.md",
+    "2 - Templates/Tempfile.md",
+    "Unique notes/12.Feb.2026-18.06 - Điều trị viêm ruột thừa.md",
+    "Unique notes/12.Feb.2026-18.00 - Thủng ruột thừa (perforation).md",
+    "Unique notes/12.Feb.2026-18.10 - Danh sách callout trong obsidian.md",
+    "Unique notes/12.Feb.2026-16.40 - Cận lâm sàng của viêm ruột thừa.md",
+    "Media/Pasted image 20260212175111.png",
+    "Media/Pasted image 20260212174856.png",
+    "Media",
+    "Unique notes/12.Feb.2026-16.43 - Chẩn đoán phân biệt của viêm ruột thừa.md",
+    "Unique notes/12.Feb.2026-15.01 - Biểu hiện lâm sàng ở viêm ruột thừa.md",
+    "Unique notes/10.Feb.2026-20.00 - Nguyên nhân của viêm ruột thừa.md",
+    "Unique notes/10.Feb.2026-17.46 - Giải phẫu và sinh lý bình thường của ruột thừa.md",
+    "3 - Habit tracking",
+    "Random notes",
+    "0 - Home",
+    "1 - Note manager",
+    "Task",
+    "Media/Ảnh các các cấu trúc xung quanh của tuyến yên.png",
+    "Media/Ảnh bảng các kỹ năng đầu ra của toàn bộ chương trình giáo dục y khoa.png",
+    "Media/Pasted image 20260117223607.png",
+    "Media/Pasted image 20260117223557.png",
+    "Media/Pasted image 20260117223545.png",
+    "Random notes/Sơ đồ hoạt động của hạch nền.canvas",
+    "Media/Pasted image 20260117145434.png",
+    "Media/Ảnh cấu trúc của phức hạch nền - Adam and Victor.png",
+    "Media/Pasted image 20260113205852.png",
+    "Random notes/Đau đầu - tiếp cận triệu chứng.canvas",
+    "Random notes/Thiếu máu - huyết học.canvas",
+    "Thần kinh/Sinh lý thần kinh/Sinh lý cảm giác.canvas",
+    "Random notes/Dẫn truyền cảm giác nông.canvas",
+    "Random notes/Dẫn truyền cảm giác đau.canvas",
+    "Random notes/Dẫn truyền cảm giác sâu.canvas",
+    "Random notes/Ghi chú TBL3S2.9.canvas",
+    "Random notes/Tuyến yên.canvas",
+    "Untitled.canvas"
+  ]
+}

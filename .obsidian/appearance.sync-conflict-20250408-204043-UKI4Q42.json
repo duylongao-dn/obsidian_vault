@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Border",
+  "nativeMenus": true,
+  "textFontFamily": "Inter",
+  "showViewHeader": true,
+  "interfaceFontFamily": "",
+  "accentColor": "",
+  "theme": "moonstone",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": []
+}

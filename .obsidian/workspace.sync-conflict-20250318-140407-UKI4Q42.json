@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "499a63910d15db8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "aea806271bb728d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "531b02b8b69c4106",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce562a93c166f0cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "14e9fad5312653db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e49306df1c24bab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ccd25e9d9d4fb8c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tìm_hiểu_thêm",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "867f7a20aaa032ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5
+  },
+  "right": {
+    "id": "72ec84f50ea2ad50",
+    "type": "split",
+    "children": [
+      {
+        "id": "2451c70b07804a47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8863d646268c096",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Random notes/Tuyến giáp.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tuyến giáp"
+            }
+          },
+          {
+            "id": "1d3e5cb6e91cede2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Random notes/Caspases.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Caspases"
+            }
+          },
+          {
+            "id": "0a1dcd3fd46e22f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "14025b5db1e1e494",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "2ff03eda2dd2b7d6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "file-forgetting-curve-obsidian:View - File Forgetting Curve": false
+    }
+  },
+  "active": "8e49306df1c24bab",
+  "lastOpenFiles": [
+    "Random notes/Tuyến tượng thận.md",
+    "Daily notes/17-03-2025.md",
+    "Random notes/Caspases.md",
+    "Random notes/Hormone TSH (thyroid stimulating hormone).md",
+    "Random notes/Hormon GH (hGH) - phát triển cơ thể.md",
+    "Random notes/Các nguyên nhân gây bệnh phổ biến.md",
+    "Random notes/Các dạng hoại tử của tế bào.md",
+    "Random notes/3 dạng tổn thương nhân của tế bào.md",
+    "Random notes/Tự chết của tế bào (apoptosis).md",
+    "Reading notes/Tổng hợp ghi chú - Robbins.md",
+    "Random notes/Các marker tổn thương tế bào.md",
+    "Random notes/Tổn thương có thể đảo ngược của tế bào.md",
+    "Media/Ảnh hình thái của chết theo chương trình - Robbins.png",
+    "Random notes/Tế bào nội mạc tử cung (endometrial cells).md",
+    "Random notes/Ghi chú TBL3S2.9.canvas",
+    "Random notes/Cân nhắc về việc sử dụng LaTeX trong ghi chú.md",
+    "Daily notes/19-02-2025. Day 24.md",
+    "Daily notes/18-03-2025. Day 23.md",
+    "Daily notes/29-02-2025. Day 41.md",
+    "Daily notes/28-02-2025. Day 33.md",
+    "Daily notes/26-02-2025. Day 31.md",
+    "Daily notes/25-02-2025. Day 30.md",
+    "Random notes/So sánh hoại tử và chết theo chu trình của tế bào.md",
+    "Media/Bảng so sánh hoại tử và chết theo chu trình tế bào.png",
+    "Media/Ảnh cơ chế hoại tử và chết theo chương trình của tế bào.png",
+    "Reading notes/Sun and Steel - Yukio Mishima.md",
+    "Daily notes/07-03-2025. Day 40.md",
+    "Daily notes/02-03-2025. Day 35.md",
+    "Media/wongkarwai.jpg",
+    "Random notes/Tổ hợp kháng sinh dùng trong lâm sàng.md",
+    "Random notes/Biểu hiện của tế bào hoại tử.md",
+    "Media/Ảnh xơ hóa thành mạch - Robbins.png",
+    "Media/Ảnh hoại tử mỡ - Robbins.png",
+    "Media/Ảnh hoại tử bã đậu ở nang lao - Robbins.png",
+    "Media/Ảnh hoại tử lỏng ở não - Robbins.png",
+    "Media/Ảnh hoại tử đông.png",
+    "Media/image-4.png",
+    "Random notes/Tuyến yên.canvas",
+    "Media/Giáo trình CNXH 2021.pdf",
+    "Templates",
+    "Study note/Chủ nghĩa xã hội",
+    "Study note",
+    "Media",
+    "Workout tracking",
+    "Untitled.canvas",
+    "Random notes",
+    "Reading notes",
+    "Daily notes",
+    "Home"
+  ]
+}

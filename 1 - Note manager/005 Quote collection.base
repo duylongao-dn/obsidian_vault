@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("quote")
+    order:
+      - file.name
+      - file.tags
+      - Reference book
+      - Date
+    columnSize:
+      file.name: 352

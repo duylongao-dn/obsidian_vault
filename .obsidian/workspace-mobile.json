@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Managing Books/Books/Adams and Victor's Principles of Neurology Twelfth Edition - Allan H Ropper Martin A Samuels Joshua P Klein Sashank Prasad.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Adams and Victor's Principles of Neurology Twelfth Edition - Allan H Ropper Martin A Samuels Joshua P Klein Sashank Prasad"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba3267b00ccbff2b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1c1dc9857bb14f95",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "728fb6cde3bcd8db",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "4c6a08327fe8a431",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "49042839870f5dfe",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6057a5751ed5f1c5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1bbcda968666c735",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Random notes/Các đường mổ.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "d636a1aa46fd500c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Reading notes/Sun and Steel - Yukio Mishima.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "5dcd97a4ee575bc4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Reading notes/Sun and Steel - Yukio Mishima.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "2bf76bc01b6c77f0",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "calendar"
+        }
+      },
+      {
+        "id": "0c32cd0f7f24e5fc",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {},
+          "icon": "clock",
+          "title": "Reminders"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-book-search-plugin:Create new book note": false,
+      "zk-prefixer:Create new unique note": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "focus-time:Open Focus Time Dashboard": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "8 - Unique notes/25.Mar.2026-17.56 - Đánh giá rối loạn đông cầm máu trong chọc dịch não tủy.md",
+    "8 - Unique notes/25.Mar.2026-17.51 - Chọc dịch não tủy.md",
+    "4 - Managing Books/Books/Adams and Victor's Principles of Neurology Twelfth Edition - Allan H Ropper Martin A Samuels Joshua P Klein Sashank Prasad.md",
+    "1 - Note manager/004 Book manager.base",
+    "Unique notes/27.Mar.2026-13.17 - About my inner peace.md",
+    "Unique notes/13.Mar.2026-05.06 - NHI KHOA - Liệu pháp oxy.md",
+    "Unique notes/13.Mar.2026-12.11 - Perhaps I am to be lonely.md",
+    "1 - Note manager/Contribution Graph.md",
+    "Unique notes/11.Mar.2026-23.13 - NHI KHOA - Định nghĩa hen phế quản.md",
+    "Unique notes/11.Mar.2026-11.16 - Nguyên nhân gây viêm phổi.md",
+    "Unique notes/11.Mar.2026-10.31 - Bệnh sinh của viêm phổi.md",
+    "Unique notes/10.Feb.2026-15.36 - Tổng công việc phải làm.md",
+    "1 - Note manager/Task manager.base",
+    "Random notes/Động mạch của thận.md",
+    "Media/Ảnh phân nhánh của động mạch thận.png",
+    "Media/Ảnh giải phẫu cơ hoành.png",
+    "Media/Ảnh phân nhánh của động mạch chậu chung.png",
+    "Random notes/Hình thể của thận.md",
+    "Random notes/Giải phẫu của thận.md",
+    "Random notes/Hố chậu và đáy chậu.md",
+    "Random notes/Cấp máu và dẫn lưu bạch huyết cho niệu quản.md",
+    "Media/Ảnh phân chia khoang ổ bụng và khoang chậu.png",
+    "Media/Ảnh các chỗ hẹp của niệu quản.png",
+    "Random notes/Động mạch chậu chung.md",
+    "Random notes/NOTE LEC27S2.10.md",
+    "Random notes/Các bất thường giải phẫu của thận.md",
+    "Media/image-10.png",
+    "Random notes/Cấu tạo của niệu quản.md",
+    "Media/Ảnh cấu tạo thận.png",
+    "Home/Công việc cần làm.md",
+    "Random notes/Ghi chú TTHCM - 31-3-2025.md",
+    "Random notes/Untitled 2.md",
+    "Media/Ảnh các đám rối của vùng thắt lưng cùng.png",
+    "Media/Ảnh đường đi của niệu quản (Netter).png",
+    "Random notes/Untitled 3.md",
+    "Random notes/Cấu tạo của thận.md",
+    "Media/Ảnh động mạch phân thùy thận.png",
+    "Random notes/Tĩnh mạch của thận.md"
+  ]
+}

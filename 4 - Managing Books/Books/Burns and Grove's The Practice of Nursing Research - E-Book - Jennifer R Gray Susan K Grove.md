@@ -1,0 +1,19 @@
+---
+title: Burns and Grove's The Practice of Nursing Research - E-Book
+subtitle: Appraisal, Synthesis, and Generation of Evidence
+author: Jennifer R. Gray, Susan K. Grove
+authors: Jennifer R. Gray,Susan K. Grove
+category: Medical
+categories: Medical
+publisher: Elsevier Health Sciences
+publishDate: 2020-07-21
+totalPage: 883
+coverUrl: http://books.google.com/books/content?id=HmbyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=HmbyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+description: "Winner of the 1st-place American Journal of Nursing Book of the Year award in nursing research/evidence-based practice for 2021!**Selected for Doody's Core Titles® 2024 with &quot;Essential Purchase&quot; designation in Research**Burns & Grove's The Practice of Nursing Research: Appraisal, Synthesis, and Generation of Evidence, 9th Edition is the trusted resource for those wanting to master the research methods that are foundational to evidence-based practice. This highly respected textbook covers how to appraise and apply existing research evidence, as well as how to participate in research and quality improvement projects. This new 9th edition has been extensively updated to reflect today's focus on online research in the digital era and includes clear, step-by-step guidelines for all major quantitative and qualitative research approaches — including supporting examples from the latest high-quality literature. There's also new content on translational research, coverage of the most current research tools and techniques, and an increased use of illustrations, tables, and other visuals to help engage visually oriented readers of all levels. - Coverage of quantitative, qualitative, and other research methodologies provides a solid foundation to conduct, appraise, and apply research evidence to the realities of today's clinical practice - Balanced coverage of qualitative and quantitative methods addresses the qualitative research methodologies that are often the starting point of research projects, particularly in magnet hospitals and DNP programs - Clear, comprehensive coverage is organized into five units that include: an introduction to nursing research; coverage of the research process; application for evidence-based health care; how to analyze data, determine outcomes, and disseminate research; and how to propose and seek funding for research - Strong emphasis on evidence-based practice addresses this key graduate-level QSEN competency and reinforces how to generate research evidence and appraise and synthesize existing research for application to clinical practice - Rich examples from nursing literature bring research principles to life - Emphasis on the most currently used research methodologies focuses on the methods used in both quantitative research and qualitative research, as well as outcomes research and mixed-methods research - Coverage of digital data collection examines the use of online research tools - Quick-reference summaries include a table of research methods inside the front cover and a list of types of research syntheses (with definitions) inside the back cover - Helpful user resources are included with each new text purchase on the companion Evolve website and feature 400 interactive review questions along with a library of 10 full-text research articles"
+link: https://books.google.com/books/about/Burns_and_Grove_s_The_Practice_of_Nursin.html?hl=&id=HmbyDwAAQBAJ
+previewLink: http://books.google.com.vn/books?id=HmbyDwAAQBAJ&printsec=frontcover&dq=Practice+of+Nursing+research&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+isbn13: 9780323779258
+isbn10: 0323779255
+localCoverImage: 4 - Managing Books/Book_Cover/Burns and Grove's The Practice of Nursing Research - E-Book - Jennifer R Gray Susan K Grove.jpg
+---

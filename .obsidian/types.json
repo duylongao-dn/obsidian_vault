@@ -1,0 +1,22 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Số tạ": "number",
+    "Số rep": "number",
+    "Bài tập": "multitext",
+    "Date": "datetime",
+    "Category": "multitext",
+    "Number of reviewNumber of review": "number",
+    "Completed": "checkbox",
+    "Reference book": "multitext",
+    "Subspecialty (medicine)": "multitext",
+    "Author": "multitext",
+    "Year of publish": "number",
+    "Năm xuất bản": "number",
+    "Personal rating": "multitext",
+    "Book category": "multitext",
+    "research_project": "multitext"
+  }
+}

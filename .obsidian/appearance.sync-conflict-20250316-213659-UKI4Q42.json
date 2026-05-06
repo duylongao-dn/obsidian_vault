@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Nordic",
+  "nativeMenus": true,
+  "textFontFamily": "Inter",
+  "showViewHeader": true,
+  "interfaceFontFamily": "",
+  "accentColor": "#74aaa1",
+  "theme": "obsidian"
+}

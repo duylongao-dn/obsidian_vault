@@ -1,0 +1,16 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.path.startsWith("4 - Managing Books/Books")
+    order:
+      - file.name
+      - Author
+      - publishDate
+      - publisher
+      - categories
+    image: note.localCoverImage
+    imageAspectRatio: 0.9
+    imageFit: contain
+    cardSize: 170

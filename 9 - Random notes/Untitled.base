@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - note["Reference book"] == ["[[Adams and Victor's Principles of Neurology (12th edition)]]"]
+    order:
+      - file.name
+      - Reference book
+      - file.tags
+    sort:
+      - property: Reference book
+        direction: ASC
+    columnSize:
+      note.Reference book: 147
+      file.tags: 232

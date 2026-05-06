@@ -1,0 +1,21 @@
+{
+  "version": "2.0",
+  "lastModified": 1774444428843,
+  "highlights": {
+    "highlight-1177640383-840": {
+      "text": "Khi pH > 3.5 thì tạo điều kiện cho vi khuẩn xâm nhập.",
+      "position": 840,
+      "created": 1774444393020,
+      "updated": 1774444428843,
+      "backgroundColor": "#ffeb3b",
+      "comments": [
+        {
+          "id": "comment-1774444393020-3ml0ktz53",
+          "content": "Có lẽ đây là lý do tại sao các trẻ sinh non thường có nhiều nguy cơ nhiễm L. monocytogen hơn. \nNeonate (Newborn): Initially neutral (pH 6–8), but rapidly declines to a fasting pH of around 2–3 within 24–72 hours.\nInfants/Young Children: Fasting pH is typically 1.5–3.5, similar to adults.\nChildren (0–4 years): Median gastric pH is around 1.5–1.8.\nChildren (5–15 years): Median gastric pH remains low, generally 1.5–1.6, consistent with adult levels.\nAdolescents: Gastric acidity is well-established, with fasting pH typically 0.5–2.0.",
+          "created": 1774444393020,
+          "updated": 1774444428843
+        }
+      ]
+    }
+  }
+}

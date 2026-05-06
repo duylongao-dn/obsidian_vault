@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Tổng
+    filters:
+      and:
+        - file.tags.contains("scientific_document")
+    order:
+      - title
+      - year
+      - author-links
+      - type
+      - file.name
+      - container-title
+      - file.backlinks
+    columnSize:
+      note.title: 445
+      file.name: 84
+    rowHeight: medium

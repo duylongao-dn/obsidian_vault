@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Prism",
+  "nativeMenus": true,
+  "textFontFamily": "Inter",
+  "showViewHeader": true,
+  "interfaceFontFamily": "",
+  "accentColor": "",
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": []
+}

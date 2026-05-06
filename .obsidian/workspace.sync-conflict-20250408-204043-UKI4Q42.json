@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random notes/Main hub.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Main hub"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce562a93c166f0cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "14e9fad5312653db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e49306df1c24bab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ccd25e9d9d4fb8c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#readagain",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "867f7a20aaa032ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5
+  },
+  "right": {
+    "id": "72ec84f50ea2ad50",
+    "type": "split",
+    "children": [
+      {
+        "id": "2451c70b07804a47",
+        "type": "tabs",
+        "dimension": 46.35036496350365,
+        "children": [
+          {
+            "id": "f8863d646268c096",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Random notes/Tuyến giáp.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tuyến giáp"
+            }
+          },
+          {
+            "id": "1d3e5cb6e91cede2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Random notes/Caspases.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Caspases"
+            }
+          },
+          {
+            "id": "0a1dcd3fd46e22f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "14025b5db1e1e494",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Random notes/Cơ chế phát nhịp của bộ máy điều hòa hô hấp.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cơ chế phát nhịp của bộ máy điều hòa hô hấp"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "32e0ff45ae6a289c",
+        "type": "tabs",
+        "dimension": 53.64963503649635,
+        "children": [
+          {
+            "id": "9250e0edf9694d86",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "file-forgetting-curve-obsidian:View - File Forgetting Curve": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Random notes/NOTE LEC27S2.10.md",
+    "Random notes/Main hub.md",
+    "Random notes/Tổng hợp ghi chú - bệnh học nội khoa.md",
+    "Home/Medical ebooks.md",
+    "Home/Books read.md",
+    "Home/Công việc cần làm.md",
+    "Random notes/Phương trình Nernst.md",
+    "Random notes/Điện thế Nernst.md",
+    "Random notes/Điện thế khuếch tán (diffusion potential).md",
+    "Random notes/Tổng hợp ghi chú - Guyton's Physiology.md",
+    "Random notes/Nồng độ ion nội bào và ngoại bào.md",
+    "Media/Ảnh nồng độ các ion nội bào và ngoại bào.png",
+    "Random notes/Hậu thận.md",
+    "Media/image-14.png",
+    "Media/Ảnh sự hình thành cấu trúc ống thận.png",
+    "Random notes/Sự phát triển của thận và niệu quản - phôi thai học.md",
+    "Media/Ảnh hình thành đài thận và bể thận trong hậu thận.png",
+    "Media/Ảnh hình thành ống thận của hậu thận.png",
+    "Media/Ảnh phát sinh hậu thận và mầm niệu quản.png",
+    "Random notes/Các đường mổ.md",
+    "Random notes/Hạ thân nhiệt không mong muốn (accidental hypothermia).md",
+    "Random notes/Điểm Glasgow.md",
+    "Random notes/Sinh lý học.md",
+    "Random notes/25-4-2025 - Một vài điều mới.md",
+    "Random notes/Tiền thận.md",
+    "Random notes/Trung thận.md",
+    "Random notes/Nhịp nhanh nhĩ thất do vòng lại (AVNRT).md",
+    "Random notes/Khả năng điều hòa của một hệ (gain of a control system).md",
+    "Random notes/Nhiễm khuẩn đường tiết niệu.md",
+    "Random notes/Phân loại mức độ ưu tiên trong cấp cứu theo ATS.md",
+    "Media/image-13.png",
+    "Media/Ảnh tính điểm glasgow.png",
+    "Random notes/Untitled 3.md",
+    "Random notes/Untitled.md",
+    "Media/image-12.png",
+    "Media/Ảnh các giới hạn của lỗ vào hố chậu bé.png",
+    "Random notes/Ghi chú TBL3S2.9.canvas",
+    "Random notes/Tuyến yên.canvas",
+    "Media/Giáo trình CNXH 2021.pdf",
+    "Templates",
+    "Study note/Chủ nghĩa xã hội",
+    "Study note",
+    "Media",
+    "Workout tracking",
+    "Untitled.canvas",
+    "Random notes",
+    "Reading notes",
+    "Daily notes",
+    "Home"
+  ]
+}

@@ -1,0 +1,19 @@
+properties:
+  note.Date:
+    displayName: Date issued
+views:
+  - type: table
+    name: Toàn bộ công việc
+    filters:
+      and:
+        - file.tags.contains("#task")
+    order:
+      - file.name
+      - file.tags
+      - Completed
+      - Date
+    sort:
+      - property: Date
+        direction: DESC
+    columnSize:
+      file.name: 340

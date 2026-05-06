@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Obsidian Nord",
+  "nativeMenus": false,
+  "textFontFamily": "Inter,JetBrains Mono",
+  "showViewHeader": true,
+  "interfaceFontFamily": "Inter",
+  "accentColor": "",
+  "theme": "obsidian",
+  "baseFontSize": 14,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "org-sidian-color",
+    "align_center"
+  ]
+}

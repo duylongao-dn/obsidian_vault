@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Daily reflection
+  - type: table
+    name: Mediations
+    filters:
+      and:
+        - file.tags.contains("meditations")
+    order:
+      - file.name
+      - file.tags
+      - Date
