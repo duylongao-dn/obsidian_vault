@@ -1,23 +1,18 @@
 [
   "obsidian-style-settings",
-  "obsidian-mindmap-nextgen",
   "symbols-prettifier",
   "file-forgetting-curve-obsidian",
-  "cursor-jump",
-  "obsidian-outliner",
   "obsidian-reminder-plugin",
   "calendar",
   "dataview",
   "recent-files-obsidian",
   "better-word-count",
-  "colored-tags",
   "contribution-graph",
-  "file-explorer-note-count",
-  "focus-time",
   "easy-tracker",
   "obsidian-book-search-plugin",
   "obsidian-table-generator",
   "image-converter",
   "biblib",
-  "obsidian-git"
+  "live-wallpaper",
+  "obsidian-paste-image-rename"
 ]

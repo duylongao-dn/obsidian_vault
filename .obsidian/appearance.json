@@ -1,15 +1,16 @@
 {
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Prism",
   "nativeMenus": false,
-  "textFontFamily": "Inter,JetBrains Mono",
+  "textFontFamily": "Inter",
   "showViewHeader": true,
-  "interfaceFontFamily": "Inter",
+  "interfaceFontFamily": "",
   "accentColor": "",
   "theme": "obsidian",
   "baseFontSize": 14,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "org-sidian-color",
-    "align_center"
+    "align_center",
+    "org-sidian"
   ]
 }

@@ -6,8 +6,8 @@ views:
         - file.tags.contains("daily_reflection")
     order:
       - file.name
-      - file.tags
       - Date
+      - file.tags
     sort:
       - property: Date
-        direction: ASC
+        direction: DESC

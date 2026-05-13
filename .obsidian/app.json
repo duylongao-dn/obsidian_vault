@@ -16,5 +16,5 @@
   "showLineNumber": false,
   "strictLineBreaks": false,
   "readableLineLength": true,
-  "vimMode": false
+  "vimMode": true
 }

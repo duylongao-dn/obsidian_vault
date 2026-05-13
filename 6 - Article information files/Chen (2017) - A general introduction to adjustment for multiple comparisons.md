@@ -53,10 +53,10 @@ research_project:
 **DOI**: *10.21037/jtd.2017.05.34*
 **Đường dẫn (URL)**: https://jtd.amegroups.org/article/view/13609
 **Ngày nhập vào cơ sở dữ liệu**: 2026-04-04
-# Tóm tắt bài báo: 
+# Tóm tắt bài báo
 A general introduction to adjustment for multiple comparisons
 
-# Danh mục đường dẫn: 
+# Danh mục đường dẫn
 Đường dẫn đến tài liệu đính kèm: []
 # Xuất hiện trong các notes
 ```dataview  

@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "f868c1a90e504163",
         "type": "tabs",
         "children": [
           {
-            "id": "30004fa9c0c9bf6c",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "1 - Note manager/004 Book manager.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "004 Book manager"
-            }
-          },
-          {
-            "id": "3c66487590ad69fd",
+            "id": "bbca6876e91ec019",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 - Unique notes/06.May.2026-20.12 - Một vài ghi chú về viêm khớp dạng thấp.md",
+                "file": "8 - Unique notes/31.Mar.2026-14.06 - Quy trình trong cấp cứu AIM - acute internal medicine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -41,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "06.May.2026-20.12 - Một vài ghi chú về viêm khớp dạng thấp"
+              "title": "31.Mar.2026-14.06 - Quy trình trong cấp cứu AIM - acute internal medicine"
             }
           },
           {
-            "id": "376fc064f5f9b6cc",
+            "id": "375ab71012fa9627",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 - Unique notes/14.Apr.2026-21.22 - Tiếp cận một bệnh nhân cấp cứu - thiên hướng của tôi.md",
+                "file": "8 - Unique notes/13.May.2026-23.51 - Thang điểm Glasgow-Blatchford.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -65,7 +52,79 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "14.Apr.2026-21.22 - Tiếp cận một bệnh nhân cấp cứu - thiên hướng của tôi"
+              "title": "13.May.2026-23.51 - Thang điểm Glasgow-Blatchford"
+            }
+          },
+          {
+            "id": "9fe66e45dfe6a99a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8 - Unique notes/13.May.2026-23.12 - Thang điểm CURB-65.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "13.May.2026-23.12 - Thang điểm CURB-65"
+            }
+          },
+          {
+            "id": "d740b4779d28273d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8 - Unique notes/13.May.2026-23.51 - Thang điểm Glasgow-Blatchford.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "13.May.2026-23.51 - Thang điểm Glasgow-Blatchford"
+            }
+          },
+          {
+            "id": "f0f1f6260783fc42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8 - Unique notes/14.May.2026-05.59 - Nguyên lý trong kê thuốc.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "14.May.2026-05.59 - Nguyên lý trong kê thuốc"
             }
           }
         ],
@@ -143,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 - Unique notes/06.May.2026-19.18 - Ghi chú thường ngày.md",
+                "file": "8 - Unique notes/13.May.2026-23.51 - Thang điểm Glasgow-Blatchford.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 06.May.2026-19.18 - Ghi chú thường ngày"
+              "title": "Outline of 13.May.2026-23.51 - Thang điểm Glasgow-Blatchford"
             }
           },
           {
@@ -177,12 +236,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Note manager/004 Book manager.base",
+                "file": "8 - Unique notes/12.May.2026-16.48 - Hoại tử.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 004 Book manager"
+              "title": "Outgoing links from 12.May.2026-16.48 - Hoại tử"
             }
           },
           {
@@ -229,19 +288,8 @@
               "icon": "bell",
               "title": "File Forgetting Curve"
             }
-          },
-          {
-            "id": "fe45b14047327b5b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "19115e2b6a9943e3",
@@ -273,7 +321,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,59 +334,57 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "file-forgetting-curve-obsidian:View - File Forgetting Curve": false,
-      "focus-time:Open Focus Time Dashboard": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "3c66487590ad69fd",
+  "active": "375ab71012fa9627",
   "lastOpenFiles": [
-    "8 - Unique notes/06.May.2026-19.18 - Ghi chú thường ngày.md",
-    "8 - Unique notes/06.May.2026-20.12 - Một vài ghi chú về viêm khớp dạng thấp.md",
-    "8 - Unique notes/25.Mar.2026-18.56 - Căn nguyên gây viêm đường hô hấp dưới của trẻ em.md",
-    "8 - Unique notes/12.Feb.2026-05.37 - Vị trí của con người trong tự nhiên - Marcus Aurelius.md",
-    "1 - Note manager/006 Reading and Meditations.base",
-    "8 - Unique notes/14.Apr.2026-21.22 - Tiếp cận một bệnh nhân cấp cứu - thiên hướng của tôi.md",
-    "1 - Note manager/My own mediations.base",
-    "8 - Unique notes/14.Apr.2026-21.15 - Viết một phần introduction hoàn chỉnh.md",
-    "8 - Unique notes/14.Apr.2026-21.34 - Lịch sử của phân tầng nguy cơ.md",
-    "8 - Unique notes/14.Apr.2026-21.37 -.md",
-    "6 - Article information files/Turner (2024) - Dominique-Jean Larrey (1766-1842)_ The Founder of the Modern Triage System.md",
-    "8 - Unique notes/11.Feb.2026-10.28 - Suy nghĩ về các sự né tránh (divertissement).md",
-    "8 - Unique notes/14.Apr.2026-20.59 - Gemini Summary - Crafting introduction.md",
-    "8 - Unique notes/10.Feb.2026-11.19 - Về cám dỗ và nỗ lực.md",
-    "1 - Note manager/003 Quản lý đọc y khoa.base",
-    "8 - Unique notes/08.Mar.2026-20.26 - Suy nghĩ của ta về sự lười biếng của chính bản thân ta.md",
-    "8 - Unique notes/14.Apr.2026-18.33 - Suy ngẫm về những gì bản thân cần làm.md",
-    "1 - Note manager/005 Quote collection.base",
-    "1 - Note manager/009 Daily Reflection.base",
-    "8 - Unique notes/14.Apr.2026-17.25 - GEMINI - Physiology of normal movement.md",
-    "8 - Unique notes/14.Apr.2026-16.52 - AI Prompt - Article finders.md",
-    "8 - Unique notes/14.Apr.2026-17.16 - Daily reflection.md",
-    "8 - Unique notes/12.Apr.2026-19.53 - NoteLM report - Movement physiology.md",
-    "8 - Unique notes/12.Apr.2026-21.10 - NoteLM report - Differential diagnosis of movement disorders.md",
-    "8 - Unique notes/12.Apr.2026-21.15 -.md",
-    "8 - Unique notes/12.Apr.2026-19.42 - NoteLM Report - Abnormal movement pattern.md",
+    "6 - Article information files/Laine (2021) - ACG Clinical Guideline_ Upper Gastrointestinal and Ulcer Bleeding.md",
+    "8 - Unique notes/13.May.2026-23.51 - Thang điểm Glasgow-Blatchford.md",
+    "5 - Media/Image - Xử trí lâm sàng xuất huyết tiêu hóa dựa trên điểm Glasgow-Blatchford - GBS.png",
+    "8 - Unique notes/13.May.2026-23.11 - Một vài thang điểm trong đánh giá bệnh nhân cấp cứu.md",
+    "8 - Unique notes/13.May.2026-23.12 - Thang điểm CURB-65.md",
+    "8 - Unique notes/14.May.2026-05.59 - Nguyên lý trong kê thuốc.md",
+    "8 - Unique notes/14.May.2026-05.57 - Ghi chú hàng ngày.md",
+    "8 - Unique notes/13.May.2026-22.03 - Thang điểm Rockwood Frailty Score.md",
+    "8 - Unique notes/12.Feb.2026-18.00 - Thủng ruột thừa (perforation).md",
+    "8 - Unique notes/31.Mar.2026-14.06 - Quy trình trong cấp cứu AIM - acute internal medicine.md",
+    "5 - Media/Image - Progression of cellular damage.png",
+    "5 - Media/image-7.png",
+    "5 - Media/image-9.png",
+    "5 - Media/Image - Rockwood Frailty Scale.png",
+    "6 - Article information files/Ahn (2022) - Development of the AI-Cirrhosis-ECG Score_ An Electrocardiogram-Based Deep Learning Model in Cirrhosis.md",
+    "8 - Unique notes/12.May.2026-21.34 - Bệnh sinh của xơ gan.md",
+    "8 - Unique notes/12.May.2026-21.01 - Tổng hợp ghi chú xơ gan.md",
+    "8 - Unique notes/13.May.2026-07.31 - Chẩn đoán xơ gan.md",
+    "6 - Article information files/Chang (2023) - Machine learning models are superior to noninvasive tests in identifying clinically significant stages of NAFLD and NAFLD‐related cirrhosis.md",
+    "8 - Unique notes/13.May.2026-19.58 - Metabolic dysfunction associated liver disease - MASLD.md",
+    "8 - Unique notes/04.Apr.2026-16.14 - Các nguyên nhân gây tổn thương tế bào theo bệnh học.md",
+    "5 - Media/image-24.png",
+    "5 - Media/image-23.png",
+    "5 - Media/image-22.png",
+    "5 - Media/image-21.png",
+    "8 - Unique notes/12.Feb.2026-18.10 - Danh sách callout trong obsidian.md",
+    "5 - Media/image-20.png",
+    "6 - Article information files/Dionigi (2017) - Bacterial Infections Change Natural History of Cirrhosis Irrespective of Liver Disease Severity.md",
+    "4 - Managing Books/Books/Sleisenger and Fordtran's Gastrointestinal and Liver Disease E-Book - Mark Feldman Lawrence S Friedman Lawrence J Brandt.md",
     "1 - Note manager/004 Book manager.base",
-    "8 - Unique notes/12.Apr.2026-09.08 -.md",
-    "4 - Managing Books/Books/MAYO CLINIC ESSENTIAL NEUROLOGY - ANDREA C ADAMS.md",
-    "4 - Managing Books/Books/DeJong's The Neurologic Examination - William Campbell Richard J Barohn.md",
-    "4 - Managing Books/Book_Cover/DeJong's The Neurologic Examination - William Campbell Richard J Barohn.jpg",
-    "8 - Unique notes/14.Mar.2026-07.53 - Sinh lý của quá trình vận động.md",
-    "8 - Unique notes/10.Apr.2026-05.05 - Hướng tiếp cận của tôi đối với suy hô hấp sơ sinh.md",
+    "8 - Unique notes/12.May.2026-16.32 - Mô học - tổn thương tế bào không thể phục hồi.md",
+    "8 - Unique notes/12.May.2026-16.48 - Hoại tử.md",
+    "4 - Managing Books/Book_Cover/Không được xác nhận 623101.crdownload",
+    "4 - Managing Books/Book_Cover/GI.jfif",
+    "4 - Managing Books/Book_Cover/Không được xác nhận 679389.crdownload",
+    "4 - Managing Books/Books/The Count of Monte Cristo - Alexandre Dumas.md",
+    "4 - Managing Books/Books/Pediatric Gastrointestinal and Liver Disease E-Book - Robert Wyllie Jeffrey S Hyams Marsha Kay.md",
+    "8 - Unique notes/12.May.2026-16.12 - Mô học - Tổn thương tế bào có thể đảo ngược.md",
+    "8 - Unique notes/12.May.2026-13.27 - Sơ bộ về các giai đoạn tổn thương tế bào.md",
+    "8 - Unique notes/12.May.2026-13.15 - Ghi chú chương 1 của Robbin's pathology.md",
+    "1 - Note manager/009 Daily Reflection.base",
     "1 - Note manager/010 Scientific Document Manager.base",
-    "5 - Media/image-13.png",
-    "4 - Managing Books/Book_Cover/Research Design - John W Creswell J David Creswell.jpg",
-    "4 - Managing Books/Book_Cover/Burns and Grove's The Practice of Nursing Research - E-Book - Jennifer R Gray Susan K Grove.jpg",
-    "4 - Managing Books/Book_Cover/The Plot to Get Bill Gates - Gary Rivlin.jpg",
-    "Biblib attachments/citekeylist.txt",
-    "Biblib attachments",
-    "Scientific document informations",
-    "5 - Media/image-12.png",
-    "5 - Media/image-11.png",
-    "5 - Media/image-10.png",
-    "4 - Managing Books/Book_Cover/Robbins Kumar Basic Pathology E-Book - Vinay Kumar Abul K Abbas Jon C Aster Andrea T Deyrup.jpg",
-    "4 - Managing Books/Book_Cover/Bradley and Daroff's Neurology in Clinical Practice 2-Volume Set-E-Book - Joseph Jankovic Nancy J Newman John C Mazziotta Scott L Pomeroy.jpg",
+    "1 - Note manager/005 Quote collection.base",
+    "1 - Note manager/007 Task manager.base",
+    "1 - Note manager/My own mediations.base",
+    "1 - Note manager/003 Quản lý đọc y khoa.base",
     "Random notes/Sơ đồ hoạt động của hạch nền.canvas",
     "Random notes/Đau đầu - tiếp cận triệu chứng.canvas",
     "Random notes/Thiếu máu - huyết học.canvas",
